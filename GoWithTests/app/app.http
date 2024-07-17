@@ -1,0 +1,13 @@
+### POST request to example server
+POST http://localhost:5000/players/Mary
+###
+### POST request to example server
+POST http://localhost:5000/players/Peter
+###
+### GET request to example server
+GET http://localhost:5000/players/Mary
+###
+### GET request to example server
+GET http://localhost:5000/players/Peter
+
+###

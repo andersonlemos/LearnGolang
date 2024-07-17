@@ -1,0 +1,20 @@
+go 1.22
+
+use (
+	./GoWithTests/helloWorld
+	./GoWithTests/integers
+	./GoWithTests/iterators
+	./GoWithTests/slicesAndArrays
+	./GoWithTests/structuresMethodsAndInterfaces
+	./GoWithTests/pointersAndErrors
+	./GoWithTests/maps
+	./GoWithTests/dependecyInjection
+	./GoWithTests/mocks
+	./GoWithTests/concurrency
+	./GoWithTests/select
+	./GoWithTests/reflection
+	./GoWithTests/sync
+	./GoWithTests/context
+	./GoWithTests/app
+	.
+	)
